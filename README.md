@@ -4,6 +4,7 @@ You can use it to play any version of the game, even special ones.
 There is also a way to change your java version if you need to do it.
 <img src="assets/gui_showcase.png"></img>
 
+##V2.0 COMING SOON
 
 ## ⚙️ Installation
 To execute this app, you only need to download the last release in the dedicated section, next, extract the zip file and create a shortcut were you want to the "launcher.exe" file.
