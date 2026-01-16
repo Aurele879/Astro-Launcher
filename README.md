@@ -1,3 +1,5 @@
+# 2.0 COMING SOON /!\
+
 ## 🪐 Astro Launcher
 My ultimate minecraft launcher, made using python only.
 You can use it to play any version of the game, even special ones.
