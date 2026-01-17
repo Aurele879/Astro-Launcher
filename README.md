@@ -1,4 +1,6 @@
-# 2.0 COMING SOON /!\
+# ❗2.0
+Available here : https://github.com/Aurele879/Astro-Launcher-2
+
 
 ## 🪐 Astro Launcher
 My ultimate minecraft launcher, made using python only.
